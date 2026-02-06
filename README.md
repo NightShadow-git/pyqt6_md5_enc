@@ -1,4 +1,8 @@
 # MD5加密工具 - PyQt6实现
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![PyQt6](https://img.shields.io/badge/PyQt6-6.0+-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 
 ## 项目简介
 
